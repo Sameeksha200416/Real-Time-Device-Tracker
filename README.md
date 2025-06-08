@@ -45,10 +45,21 @@ package.json --> Project metadata and dependencies
 git clone https://github.com/Sameeksha200416/Real-Time-Device-Tracker.git
 cd Real-Time-Device-Tracker
 
+2. Install dependencies
+npm install
+3. Start the server
+node app.js
+4. Open in browser
+Visit http://localhost:3000 to see it running.
+
 ---
 ## 📸 Screenshots
 
-Here is a preview of the real-time device tracking map with live updates:
+## 📸 Screenshots
 
-![Screenshot 2025-06-08 132634](https://github.com/user-attachments/assets/a26df910-d0ba-40b0-91ef-14048c6ad3d5)
-![Screenshot 2025-06-08 132709](https://github.com/user-attachments/assets/00f25bed-73ad-453d-9415-2aba5d521a23)
+### 🌐 Full City View
+![City View](assets/screenshot-1.png)
+
+### 🏥 Close-Up with Medical Facilities
+![Zoomed View](assets/screenshot-2.png)
+
