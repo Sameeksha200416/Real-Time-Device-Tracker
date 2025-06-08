@@ -44,13 +44,11 @@ package.json --> Project metadata and dependencies
 ```bash
 git clone https://github.com/Sameeksha200416/Real-Time-Device-Tracker.git
 cd Real-Time-Device-Tracker
----
 
+---
 ## 📸 Screenshots
 
 Here is a preview of the real-time device tracking map with live updates:
 
-![Real-Time Device Tracker Screenshot](./![Screenshot 2025-06-08 133120](https://github.com/user-attachments/assets/1928c976-20a8-4b6c-9630-44c9088f1774)
-)
-
-
+![Screenshot 2025-06-08 132634](https://github.com/user-attachments/assets/a26df910-d0ba-40b0-91ef-14048c6ad3d5)
+![Screenshot 2025-06-08 132709](https://github.com/user-attachments/assets/00f25bed-73ad-453d-9415-2aba5d521a23)
